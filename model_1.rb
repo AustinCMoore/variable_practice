@@ -9,3 +9,6 @@ cat2_cute = false
 
 cat1_sounds = ["meow", "MROWWW", "Purr"]
 cat2_sounds = ["mrow", "MEEEEOW", "Purrrrrrrr"]
+
+cats_nickname = { "Blonkus" => cat1, "Clydicus" => cat2}
+puts cats_nickname["Blonkus"]
