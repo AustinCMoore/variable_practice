@@ -6,3 +6,6 @@ cat2_age = 2
 
 cat1_cute = true
 cat2_cute = false
+
+cat1_sounds = ["meow", "MROWWW", "Purr"]
+cat2_sounds = ["mrow", "MEEEEOW", "Purrrrrrrr"]
